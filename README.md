@@ -1,19 +1,27 @@
-# E-Commerce Sales_dashboard# E-Commerce Sales Performance Dashboard
+# Sales Performance Analytics Dashboard
 
 ## Project Overview
-This project analyzes sales performance for an Indian e-commerce platform using Power BI.
+This project analyzes retail sales data using Power BI to track key business metrics and sales performance.
 
 ## Tools Used
-- SQL
 - Excel
+- SQL
 - Power BI
+- Python
 
-## Key Insights
-- State-wise sales analysis
-- Monthly profit trends
-- Top product categories
-- Customer purchase patterns
-- Payment mode distribution
+## Key Metrics
+- Total Sales
+- Total Units Sold
+- Total Profit
+- Product-wise Sales
+- Regional Sales Distribution
+- Monthly Profit Trends
 
-## Business Impact
-This dashboard helps identify high-performing regions, profitable product categories, and customer purchasing behavior.
+## Dashboard Features
+- Overview of sales KPIs
+- Product and category performance analysis
+- Regional sales insights
+- Time-based profit trends
+
+## Business Value
+The dashboard helps businesses monitor sales performance, identify high-performing products, and analyze regional demand trends.
